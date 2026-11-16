@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Debug-only additions: the editor test launcher and read access to fixtures in /sdcard/Movies. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32" />
+
+    <application>
+        <activity
+            android:name=".EditorDebugActivity"
+            android:exported="true"
+            android:label="YouRoll editor (debug)"
+            android:theme="@style/Theme.YouRoll"
+            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|keyboardHidden"
+            android:windowSoftInputMode="adjustResize" />
+    </application>
+</manifest>

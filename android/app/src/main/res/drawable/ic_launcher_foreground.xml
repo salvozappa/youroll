@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- YouRoll launcher icon (option N, 16 Nov): a person filming with a phone held up, in front of a diagonal red film strip. Source: android/docs/icon/icon-options-2.html. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <group android:rotation="-21.251" android:pivotX="0" android:pivotY="76">
+        <path android:fillColor="#FFFF4049" android:pathData="M-2.00,64.00h119.88v24.00h-119.88z" />
+        <path android:fillColor="#FFFF6A71" android:pathData="M0.00,71.92h14.88v8.16h-14.88zM19.38,71.92h14.88v8.16h-14.88zM38.76,71.92h14.88v8.16h-14.88zM58.14,71.92h14.88v8.16h-14.88zM77.52,71.92h14.88v8.16h-14.88zM96.90,71.92h14.88v8.16h-14.88zM116.28,71.92h14.88v8.16h-14.88z" />
+        <path android:fillColor="#FF171A21" android:pathData="M0.00,67.12h3.36v2.88h-3.36zM0.00,82.00h3.36v2.88h-3.36zM8.16,67.12h3.36v2.88h-3.36zM8.16,82.00h3.36v2.88h-3.36zM16.32,67.12h3.36v2.88h-3.36zM16.32,82.00h3.36v2.88h-3.36zM24.48,67.12h3.36v2.88h-3.36zM24.48,82.00h3.36v2.88h-3.36zM32.64,67.12h3.36v2.88h-3.36zM32.64,82.00h3.36v2.88h-3.36zM40.80,67.12h3.36v2.88h-3.36zM40.80,82.00h3.36v2.88h-3.36zM48.96,67.12h3.36v2.88h-3.36zM48.96,82.00h3.36v2.88h-3.36zM57.12,67.12h3.36v2.88h-3.36zM57.12,82.00h3.36v2.88h-3.36zM65.28,67.12h3.36v2.88h-3.36zM65.28,82.00h3.36v2.88h-3.36zM73.44,67.12h3.36v2.88h-3.36zM73.44,82.00h3.36v2.88h-3.36zM81.60,67.12h3.36v2.88h-3.36zM81.60,82.00h3.36v2.88h-3.36zM89.76,67.12h3.36v2.88h-3.36zM89.76,82.00h3.36v2.88h-3.36zM97.92,67.12h3.36v2.88h-3.36zM97.92,82.00h3.36v2.88h-3.36zM106.08,67.12h3.36v2.88h-3.36zM106.08,82.00h3.36v2.88h-3.36zM114.24,67.12h3.36v2.88h-3.36zM114.24,82.00h3.36v2.88h-3.36z" />
+    </group>
+    <group android:scaleX="-1" android:pivotX="54">
+        <path android:fillColor="#FF171A21" android:strokeColor="#FF171A21" android:strokeWidth="3.5" android:strokeLineJoin="round" android:pathData="M34,50a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" />
+        <path android:fillColor="#FF171A21" android:strokeColor="#FF171A21" android:strokeWidth="3.5" android:strokeLineJoin="round" android:pathData="M26,98C26,76 32,66 44,64C55,63 62,68 64,77L66,98Z" />
+        <group android:rotation="14" android:pivotX="68.5" android:pivotY="44.5">
+            <path android:fillColor="#FF171A21" android:strokeColor="#FF171A21" android:strokeWidth="3.5" android:pathData="M65,34h7a3,3 0 0 1 3,3v15a3,3 0 0 1 -3,3h-7a3,3 0 0 1 -3,-3v-15a3,3 0 0 1 3,-3z" />
+        </group>
+        <path android:strokeColor="#FF171A21" android:strokeWidth="11.5" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M54,70L64,60L68,53" />
+        <path android:fillColor="#FFF5EFE6" android:pathData="M34,50a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" />
+        <path android:fillColor="#FFF5EFE6" android:pathData="M26,98C26,76 32,66 44,64C55,63 62,68 64,77L66,98Z" />
+        <group android:rotation="14" android:pivotX="68.5" android:pivotY="44.5">
+            <path android:fillColor="#FFF5EFE6" android:pathData="M65,34h7a3,3 0 0 1 3,3v15a3,3 0 0 1 -3,3h-7a3,3 0 0 1 -3,-3v-15a3,3 0 0 1 3,-3z" />
+        </group>
+        <path android:strokeColor="#FFF5EFE6" android:strokeWidth="8" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M54,70L64,60L68,53" />
+        <path android:fillColor="#FFFF4049" android:pathData="M67.9,38.5a2.1,2.1 0 1,0 4.2,0a2.1,2.1 0 1,0 -4.2,0" />
+    </group>
+</vector>

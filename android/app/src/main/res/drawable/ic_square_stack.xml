@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- YouRoll: stacked cards, the closest shape to SF Symbol square.stack (Projects). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:strokeColor="#FFFFFFFF" android:strokeWidth="1.7" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M6.5,8h11a2.75,2.75 0,0 1,2.75 2.75v8.5a2.75,2.75 0,0 1,-2.75 2.75h-11a2.75,2.75 0,0 1,-2.75 -2.75v-8.5a2.75,2.75 0,0 1,2.75 -2.75zM6,4.9h12M8.5,1.9h7" />
+</vector>

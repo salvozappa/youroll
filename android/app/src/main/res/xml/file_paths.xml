@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Project media and exports: filesDir/Projects/<UUID>/… -->
+<paths>
+    <files-path name="projects" path="Projects/" />
+    <!-- Cover JPEGs shared from the editor (CoverPicker.kt). -->
+    <cache-path name="covers" path="Covers/" />
+</paths>

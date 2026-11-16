@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- YouRoll: an arrow into an open tray, the closest shape to SF Symbol square.and.arrow.down (Import). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:strokeColor="#FFFFFFFF" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M8.5,9H7A2.5,2.5 0,0 0,4.5 11.5v7A2.5,2.5 0,0 0,7 21h10a2.5,2.5 0,0 0,2.5 -2.5v-7A2.5,2.5 0,0 0,17 9h-1.5M12,2.5v12M8.25,10.75L12,14.5l3.75,-3.75" />
+</vector>

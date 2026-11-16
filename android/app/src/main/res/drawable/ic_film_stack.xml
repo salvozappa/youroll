@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- YouRoll: a filmstrip on stacked cards, the closest shape to SF Symbol film.stack. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <path android:strokeColor="#FFFFFFFF" android:strokeWidth="1.6" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M6.5,9.5h11a2,2 0,0 1,2 2v8a2,2 0,0 1,-2 2h-11a2,2 0,0 1,-2 -2v-8a2,2 0,0 1,2 -2zM8.25,9.5v12M15.75,9.5v12M8.25,15.5h7.5M4.5,12.5h3.75M4.5,18.5h3.75M15.75,12.5h3.75M15.75,18.5h3.75M7,6.25h10M9,3h6" />
+</vector>
